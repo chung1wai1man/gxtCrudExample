@@ -1,6 +1,6 @@
 gxtCrudExample
 ==============
-This is a working example of a CRUD (create, read, update and delete) editor for Google App Engine.
+This is a working example of a CRUD (create, read, update and delete) editor for Google App Engine amd GXT 3.1.
 The editor supports Objectify Reference fields to other App Engine classes.
 If such a field is edited a sub editor appears which allows the user to select entities of the other class.
 
